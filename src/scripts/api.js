@@ -1,5 +1,5 @@
 // TODO: Silakan sesuaikan BASE URL dari endpoint Anda
-const BASE_URL = 'http://localhost:3000';
+const BASE_URL = 'https://ml-web-server-srpaelv24q-et.a.run.app';
 
 const ENDPOINT = {
   predict: `${BASE_URL}/predict`,
